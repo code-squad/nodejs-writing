@@ -12,4 +12,5 @@
 - 내가 잘 아는 주제로 이해하기 쉽게, 글을 쓸 것
 - 파일 형식: ROOT/nickname/YYMMDD/my-title.md
 - ex) ROOT/honux/190520/how-to-be-a-good-gamer.md
+- 이미지 업로드는 이슈를 이용하면 편하다.
 
